@@ -1,0 +1,6 @@
+# Ignore .env file
+.env
+
+# Ignore Excel files
+*.xlsx
+*.xls
